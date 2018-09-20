@@ -14,4 +14,4 @@ management:
     enabled: false
 
 example:
-  property: "Hello world"
+  property: "Hello world1"
